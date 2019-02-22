@@ -2,7 +2,7 @@
 ## Schematic:
 
 	[Ground] -- [10,000 ohm bridge resistor] -- | -- [thermistor] --[Vcc (?v)]
-		                                        |
+	                                            |
 	    	                              Analog Pin
 
 ## Command:
